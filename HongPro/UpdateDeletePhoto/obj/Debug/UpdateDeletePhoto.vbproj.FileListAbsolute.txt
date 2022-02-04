@@ -1,0 +1,23 @@
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.exe.config
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.exe
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.pdb
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.xml
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.frmUpdateDelete.resources
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.Resources.resources
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.vbproj.GenerateResource.cache
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.vbproj.CoreCompileInputs.cache
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.exe
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.xml
+D:\VB\Personal Application Development\Exercise S2\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.pdb
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.exe.config
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.exe
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.pdb
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\bin\Debug\UpdateDeletePhoto.xml
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.vbproj.AssemblyReference.cache
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.frmUpdateDelete.resources
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.Resources.resources
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.vbproj.GenerateResource.cache
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.vbproj.CoreCompileInputs.cache
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.exe
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.xml
+C:\Users\HONG_XQR\Desktop\HongPro\UpdateDeletePhoto\obj\Debug\UpdateDeletePhoto.pdb

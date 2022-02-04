@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HongPro", "HongPro\HongPro.vbproj", "{4E315047-4959-43C4-ADAC-3B365148607B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13B9111D-72BC-4635-802C-EC0757E62ADB}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UpdateDeletePhoto", "UpdateDeletePhoto\UpdateDeletePhoto.vbproj", "{C7B171AD-0F20-43BE-A1C0-CB12FFD880DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E315047-4959-43C4-ADAC-3B365148607B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E315047-4959-43C4-ADAC-3B365148607B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E315047-4959-43C4-ADAC-3B365148607B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E315047-4959-43C4-ADAC-3B365148607B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B171AD-0F20-43BE-A1C0-CB12FFD880DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B171AD-0F20-43BE-A1C0-CB12FFD880DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B171AD-0F20-43BE-A1C0-CB12FFD880DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B171AD-0F20-43BE-A1C0-CB12FFD880DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6155523E-CDB2-45C3-92CF-C0E0C7BBB66F}
+	EndGlobalSection
+EndGlobal
